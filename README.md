@@ -85,7 +85,7 @@ The project not only solved an immediate problem, but also deepened my practical
     * CSV files (.csv)  
     * *or any other type of file that contains text data.*
   
-    > [!CAUTION]
+    > [!WARNING]
     >The script *requires* an **input** file. If no **output** file exists at the specified location, a new one will be created; otherwise, the existing output file will be overwritten each time the script is run.
 
 2. Run the script in the terminal:
