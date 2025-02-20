@@ -12,9 +12,9 @@
 As a student I took this side project as an opportunity to discover automation using Selenium and implement some coding best practices learned at school.
 The project not only solved an immediate problem, but also deepened my practical software development skills. If you are eager to learn more, dive into the code! The **tutorial** articles are available here:
 
-* [Part I: setup](link)
-* [Part II: overview](link)
-* [Part III: deep dive](link)
+* [Part I: setup](https://dev.to/atomictangerline/basic-selenium-the-easy-peasy-introduction-chapter-1-of-3-4fe3)
+* [Part II: overview](https://dev.to/atomictangerline/basic-selenium-the-easy-peasy-introduction-chapter-2-of-3-1oad)
+* [Part III: deep dive](https://dev.to/atomictangerline/basic-selenium-the-easy-peasy-introduction-chapter-3-of-3-3bb7)
 
 **NB:** This script uses the [DeepL translation service](https://www.deepl.com/translator), which has usage limits and requires a subscription for heavy usage.
 
@@ -85,7 +85,7 @@ The project not only solved an immediate problem, but also deepened my practical
     * CSV files (.csv)  
     * *or any other type of file that contains text data.*
   
-    > [!IMPORTANT]
+    > [!CAUTION]
     >The script *requires* an **input** file. If no **output** file exists at the specified location, a new one will be created; otherwise, the existing output file will be overwritten each time the script is run.
 
 2. Run the script in the terminal:
@@ -180,7 +180,7 @@ If the script translates the text into German instead of the specified `OUTPUT_L
 ## Further learning
 
 * A tutorial that inspired this project: [YouTube link](https://www.youtube.com/watch?v=aSeqMYNhEHo)
-* The tutorial about this project: [Available here](link)
+* The tutorial about this project: [Available here](https://dev.to/atomictangerline/basic-selenium-bonus-41dp)
 
 ## Contributing
 
