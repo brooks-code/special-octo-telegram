@@ -180,7 +180,7 @@ If the script translates the text into German instead of the specified `OUTPUT_L
 ## Further learning
 
 * A tutorial that inspired this project: [YouTube link](https://www.youtube.com/watch?v=aSeqMYNhEHo)
-* The tutorial about this project: [Available here](https://dev.to/atomictangerline/basic-selenium-bonus-41dp)
+* The tutorial about this project: [Available here](https://dev.to/atomictangerline/series/30533)
 
 ## Contributing
 
