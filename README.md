@@ -3,7 +3,7 @@
 **Translate effortlessly: automate text translations with the DeepL service using Selenium.**
 
 ![Banner Image](/img/banner-img.jpg "A banner image depicting a cat playing on the tower of Babel.")
-*Pastiche by FatCatArt inspired by Pieter Bruegel the elder's tower of Babel.*
+<br>*Pastiche by FatCatArt inspired by Pieter Bruegel the elder's tower of Babel.*
 
 ### Genesis
 
